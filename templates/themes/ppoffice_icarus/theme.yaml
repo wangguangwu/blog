@@ -1,0 +1,11 @@
+id: ppoffice_icarus
+name: Icarus
+author:
+  name: ppoffice
+  website: https://github.com/ppoffice
+description:
+logo:
+website: https://github.com/ppoffice/hexo-theme-icarus
+repo: https://github.com/halo-dev/halo-theme-icarus
+version: 2.7.0
+require: 1.5.0
